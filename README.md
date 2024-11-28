@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Jose David Pabón Pallares</h1>
-<h3 align="center">next video game developer</h3>
+<h3 align="center">Hello, I am Jose David Pabòn, I am a person who likes programming, and I work hard to be a great video game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cronox808&label=Profile%20views&color=0e75b6&style=flat" alt="cronox808" /> </p>
 
@@ -12,7 +13,7 @@
 <a href="https://twitter.com/cronox808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cronox808" height="30" width="40" /></a>
 <a href="https://fb.com/jose david pabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose david pabon" height="30" width="40" /></a>
 <a href="https://instagram.com/cronox_808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cronox_808" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cronox808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cronox808" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@cronox808yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cronox808yt" height="30" width="40" /></a>
 <a href="https://discord.gg/cronox808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cronox808" height="30" width="40" /></a>
 </p>
 
