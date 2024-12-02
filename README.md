@@ -13,7 +13,7 @@
 <a href="https://twitter.com/cronox808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cronox808" height="30" width="40" /></a>
 <a href="https://fb.com/jose david pabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose david pabon" height="30" width="40" /></a>
 <a href="https://instagram.com/cronox_808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cronox_808" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cronox808yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cronox808yt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@cronox808YT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cronox808yt" height="30" width="40" /></a>
 <a href="https://discord.gg/cronox808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cronox808" height="30" width="40" /></a>
 </p>
 
